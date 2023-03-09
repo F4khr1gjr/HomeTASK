@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\MiniApp.exe
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\MiniApp.deps.json
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\MiniApp.runtimeconfig.json
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\MiniApp.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\MiniApp.pdb
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.AssemblyInfo.cs
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\refint\MiniApp.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.pdb
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.genruntimeconfig.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\ref\MiniApp.dll

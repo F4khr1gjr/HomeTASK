@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\BookPCount.exe
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\BookPCount.deps.json
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\BookPCount.runtimeconfig.json
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\BookPCount.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\bin\Debug\net6.0\BookPCount.pdb
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.AssemblyInfo.cs
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\refint\BookPCount.dll
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.pdb
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\BookPCount.genruntimeconfig.cache
+C:\Users\user\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\ref\BookPCount.dll
